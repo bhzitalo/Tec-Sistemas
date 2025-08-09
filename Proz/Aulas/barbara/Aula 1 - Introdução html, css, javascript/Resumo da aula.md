@@ -63,3 +63,15 @@ function mudarMensagem() {
 - CSS: Cuida da aparência (estilos).
 - JavaScript: Adiciona dinamismo e interatividade.
 
+## Atividade – Primeiros Passos com HTML
+Prof.: [Bárbara de Almeida](https://github.com/ProfBabi)
+1. Crie um arquivo chamado html
+2. No corpo da página dentro de uma `<div></div>`, insira as informações:
+    - a. Um título para um site fictício (usando `<h1></h1>`)
+    - b. Seu nome completo (usando `<h2></h2>`)
+    - c. O nome de uma cidade (usando `<p></p>`)
+
+Obs: Coloque cada uma das informações abaixo uma da outra.
+• Crie um botão que quando clicado, retorna uma mensagem de boas-vindas.
+• Insira uma estilização para a página.
+1. Salve o arquivo e abra no navegador para verificar o resultado.
